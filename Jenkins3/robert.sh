@@ -1,5 +1,4 @@
 #!/bin/bash
 
-echo "Does this work??"
-
-
+echo "Does this work??" 
+date
