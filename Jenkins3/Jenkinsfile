@@ -3,6 +3,7 @@ pipeline{
     stages{
         stage('Build'){
         steps {
+            echo "hi"
             sh 'sudo yum update'
             sh 'sudo yum install -y httpd' 
             }
