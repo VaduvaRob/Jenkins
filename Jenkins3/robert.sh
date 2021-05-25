@@ -1,4 +1,5 @@
 #!/bin/bash
 
 echo "Does this work??" 
-date
+date 
+echo "acest build a inceput automat"
